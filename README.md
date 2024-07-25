@@ -55,7 +55,7 @@ VoyageHub is a backend API designed for a tour booking system, built with Node.j
     EMAIL_HOST=<your-email-host>
     EMAIL_PORT=<your-email-port>
 
-5. Satart the server:
+5. Start the server:
     ```bash
     npm run dev
 
