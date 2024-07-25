@@ -60,3 +60,13 @@ VoyageHub is a backend API designed for a tour booking system, built with Node.j
     npm run dev
 
 
+## Usage
+
+- **Base URL**: http://localhost:3000/api/v1
+- **Endpoints**: 
+    - **/users**: Manage user profiles and authentication.
+    - **/tours**: View, create, update, and delete tours.
+    - **/reviews**: Write, edit, and view reviews.
+
+
+
