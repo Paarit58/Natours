@@ -28,7 +28,7 @@ VoyageHub is a backend API designed for a tour booking system, built with Node.j
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/VoyageHub.git
+   git clone https://github.com/Paarit58/VoyageHub.git
 
 2. Navigate to the project directory:
     ```bash
